@@ -44,6 +44,6 @@
             <string>$LOCATION_WHEN_IN_USE_DESCRIPTION</string>
         </config-file>
 
-        <dependency url="https://github.com/izambasiron/cordova-plugin-add-swift-support" version="1.7.2-OS"/>
+        <dependency id="cordova-plugin-add-swift-support" url="https://github.com/izambasiron/cordova-plugin-add-swift-support" commit="1.7.2-OS"/>
     </platform>
 </plugin>
